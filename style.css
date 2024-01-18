@@ -1,0 +1,19 @@
+body {
+  width: 500px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  padding: 50px;
+  border-radius: 20px;
+}
+html {
+  background-color: orange;
+}
+input {
+  width: 450px;
+}
+button {
+  width: 458px;
+  background-color: rgb(23, 23, 116);
+  color: white;
+}
